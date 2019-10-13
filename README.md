@@ -1,5 +1,5 @@
 # ansible-role-menu
-A menu to prompt the user for input as a Ansible-role.
+A menu to prompt the user for input as an Ansible-role.
 
 # Reading resource: 
 https://opencredo.com/blogs/reusing-ansible-roles-with-private-git-repos-and-dependencies/
