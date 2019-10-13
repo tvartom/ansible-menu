@@ -1,6 +1,6 @@
 galaxy_info:
   author: tvartom
-  description: A menu to prompt the user for input as a Ansible-role.
+  description: A menu to prompt the user for input as an Ansible-role.
   company: Tvako AB
 
   # If the issue tracker for your role is not on github, uncomment the
