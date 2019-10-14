@@ -48,4 +48,4 @@ dependencies:
   - name: tvartom.colors
     src: https://github.com/tvartom/ansible-role-colors
     scm: git
-    version: v0.1
+    # version: v0.1
