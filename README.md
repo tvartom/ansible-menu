@@ -6,7 +6,7 @@ A menu to prompt the user for input as an Ansible-role.
 Install role
 ------------
 
-Create `requirements.yml` in your ansible playbook-folder.
+Create `requirements.yml` in your ansible playbook-folder:
 
     ---
     # Documentation:
